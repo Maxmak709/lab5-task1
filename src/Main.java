@@ -4,5 +4,6 @@ class Main {
         int devCount = 100;
         System.out.println("Dev version 1.0");
         int dev_random = 7654;
+        // Финал ветки dev
     }
 }
